@@ -3,7 +3,7 @@
 </p>
 
 <h1>Tickets and Ticket Lifecycle</h1>
-This tutorial demonstrates examples of opening, updating and closing tickets.<br />
+This tutorial demonstrates possible real life examples of ticket requests, as well as how to open, work and close tickets.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
