@@ -6,9 +6,9 @@
 This tutorial demonstrates examples of opening, updating and closing tickets.<br />
 
 
-<h2>Video Demonstration</h2>
+<!-- <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,35 +22,35 @@ This tutorial demonstrates examples of opening, updating and closing tickets.<br
 
 <h2>List of Prerequisites</h2>
 
-- osTicket installed
-- osTicket environment configured
+- <a href="https://github.com/aizhuxue007/osticket-installation"> osTicket Installed </a>
+- <a href="https://github.com/aizhuxue007/osticket-postinstall"> osTicket Helpdesk Environment Configured </a>
 
 <h2>Ticket Examples</h2>
 
-<h3>Practice creating, triaging, and solving tickets. </h3>
+<h3>Practice (opening, triaging, resolving) these examples 3 times to gain adequate understanding of ticket lifecycle. </h3>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Example 1: Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
 
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 Example 2: Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
-
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Example 3: Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 </p>
 <p>
-Example 3: Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
