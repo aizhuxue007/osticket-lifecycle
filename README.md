@@ -25,14 +25,18 @@ This tutorial demonstrates examples of opening, updating and closing tickets.<br
 - <a href="https://github.com/aizhuxue007/osticket-installation"> osTicket Installed </a>
 - <a href="https://github.com/aizhuxue007/osticket-postinstall"> osTicket Helpdesk Environment Configured </a>
 
+<br />
+
 <h2>Ticket Examples</h2>
 
 <h3>Practice (opening, triaging, resolving) these examples 3 times to gain adequate understanding of ticket lifecycle. </h3>
 
 
 <p>
-Example 1: Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
-
+Example 1: <br>
+- Sev-A (1 hour, 24/7) <br> 
+- "entire mobile/online banking system is down" <br>
+- Give this ticket to SysAdmins <br>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -40,7 +44,9 @@ Example 1: Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] ->
 <br />
 
 <p>
-Example 2: Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+Example 2: <br>
+- Sev-B (4 hours, 24/7) <br>
+- "accounting department needs adobe upgrade, broken" <br>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -48,7 +54,9 @@ Example 2: Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, bro
 <br />
 
 <p>
-Example 3: Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+Example 3: <br>
+- Sev-B/C (2 hours, business hours) <br>
+- "CFO’s laptop seems a bit slow" <br>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
