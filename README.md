@@ -24,13 +24,11 @@ This tutorial demonstrates possible real life examples of ticket requests, as we
 
 - <a href="https://github.com/aizhuxue007/osticket-installation"> osTicket Installed </a>
 - <a href="https://github.com/aizhuxue007/osticket-postinstall"> osTicket Helpdesk Environment Configured </a>
-
 <br />
 
 <h2>Ticket Examples</h2>
 
 <h3>Practice (opening, triaging, resolving) these examples 3 times to gain adequate understanding of ticket lifecycle. </h3>
-
 
 <p>
 Example 1: <br>
