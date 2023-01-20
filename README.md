@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Tickets and Ticket Lifecycle</h1>
+<h1>Ticket Examples and Their Lifecycle</h1>
 This tutorial demonstrates possible real life examples of ticket requests, as well as how to open, work and close tickets.<br />
 
 
