@@ -54,10 +54,10 @@ Example 2: <br>
 </p>
 <p>
 <img width="1120" alt="Screenshot 2023-01-21 at 9 54 27 PM" src="https://user-images.githubusercontent.com/17282458/213898452-51d68c34-ae2b-486c-ae90-b16a3c0e1f20.png">
-<img width="1081" alt="Screenshot 2023-01-21 at 10 18 42 PM" src="https://user-images.githubusercontent.com/17282458/213899025-626ff923-1263-4417-9374-b8f">
+<img width="1081" alt="Screenshot 2023-01-21 at 10 18 42 PM" src="https://user-images.githubusercontent.com/17282458/213899025-626ff923-1263-4417-9374-b8f5e2c91c16.png">
 
 <img width="715" alt="Screenshot 2023-01-21 at 10 21 31 PM" src="https://user-images.githubusercontent.com/17282458/213899070-7341d3bf-0d43-4bd7-b3eb-9160a7ea65ad.png">
-5e2c91c16.png">
+
 
 </p>
 
