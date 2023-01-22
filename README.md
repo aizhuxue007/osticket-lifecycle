@@ -36,8 +36,10 @@ Example 1: <br>
 - Give this ticket to SysAdmins <br>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1129" alt="Screenshot 2023-01-21 at 12 26 02 PM" src="https://user-images.githubusercontent.com/17282458/213898151-a1b88b13-f643-4a85-ae07-1abd22e304d0.png">
+<img width="1171" alt="Screenshot 2023-01-21 at 12 25 12 PM" src="https://user-images.githubusercontent.com/17282458/213898165-0da9ebda-cb4c-4c65-9ae6-172404218220.png">
 </p>
+
 <br />
 
 <p>
@@ -46,7 +48,7 @@ Example 2: <br>
 - "accounting department needs adobe upgrade, broken" <br>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1120" alt="Screenshot 2023-01-21 at 9 54 27 PM" src="https://user-images.githubusercontent.com/17282458/213898452-51d68c34-ae2b-486c-ae90-b16a3c0e1f20.png">
 </p>
 <br />
 
@@ -55,7 +57,8 @@ Example 3: <br>
 - Sev-B/C (2 hours, business hours) <br>
 - "CFO’s laptop seems a bit slow" <br>
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1129" alt="Screenshot 2023-01-21 at 12 26 02 PM" src="https://user-images.githubusercontent.com/17282458/213898578-d6e8c01c-3b19-427c-bd2c-3729efe111d2.png">
+
+
 </p>
 <br />
