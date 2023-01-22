@@ -27,7 +27,7 @@ This tutorial demonstrates possible real life examples of ticket requests, as we
 
 <h2>Ticket Examples</h2>
 
-<h3>Practice (opening, triaging, resolving) these examples 3 times to gain adequate understanding of ticket lifecycle. The important idea is to keep in communication with the ticket opener about the situation. Once the issue is resolved you resolve/close the ticket. Review your ticket history to learn more on the job.</h3>
+<h3>Practice (opening, triaging, resolving) these examples 3 times to gain adequate understanding of ticket lifecycle. The important idea is to keep in communication with the ticket opener about the situation. Once the issue is resolved you resolve/close the ticket. Review the ticket history to learn  and to improve at problem solving.</h3>
 
 
 <p>
