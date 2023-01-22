@@ -49,9 +49,15 @@ Example 2: <br>
 
 - Sev-B (4 hours, 24/7) <br>
 - "accounting department needs adobe upgrade, broken" <br>
+- Closing Ticket
 </p>
 <p>
 <img width="1120" alt="Screenshot 2023-01-21 at 9 54 27 PM" src="https://user-images.githubusercontent.com/17282458/213898452-51d68c34-ae2b-486c-ae90-b16a3c0e1f20.png">
+<img width="1081" alt="Screenshot 2023-01-21 at 10 18 42 PM" src="https://user-images.githubusercontent.com/17282458/213899025-626ff923-1263-4417-9374-b8f">
+
+<img width="715" alt="Screenshot 2023-01-21 at 10 21 31 PM" src="https://user-images.githubusercontent.com/17282458/213899070-7341d3bf-0d43-4bd7-b3eb-9160a7ea65ad.png">
+5e2c91c16.png">
+
 </p>
 
 <br />
@@ -62,6 +68,8 @@ Example 3: <br>
 - "CFO’s laptop seems a bit slow" <br>
 </p>
 <img width="1126" alt="Screenshot 2023-01-21 at 10 06 50 PM" src="https://user-images.githubusercontent.com/17282458/213898775-7d5eae64-f15b-4a6f-8827-35f28eda0771.png">
+<img width="1187" alt="Screenshot 2023-01-21 at 10 23 38 PM" src="https://user-images.githubusercontent.com/17282458/213899115-21547cf0-736e-45fc-aa3f-10aa003e4493.png">
+<img width="1073" alt="Screenshot 2023-01-21 at 10 25 40 PM" src="https://user-images.githubusercontent.com/17282458/213899160-a72c521a-eec6-465d-b50b-9884b7d43ac5.png">
 
 
 </p>
