@@ -38,18 +38,22 @@ Example 1: <br>
 <p>
 <img width="1129" alt="Screenshot 2023-01-21 at 12 26 02 PM" src="https://user-images.githubusercontent.com/17282458/213898151-a1b88b13-f643-4a85-ae07-1abd22e304d0.png">
 <img width="1171" alt="Screenshot 2023-01-21 at 12 25 12 PM" src="https://user-images.githubusercontent.com/17282458/213898165-0da9ebda-cb4c-4c65-9ae6-172404218220.png">
+  <img width="1158" alt="Screenshot 2023-01-21 at 10 09 43 PM" src="https://user-images.githubusercontent.com/17282458/213898825-cef7a6c5-da61-424e-9f22-06078ad910c2.png">
+  <img width="1232" alt="Screenshot 2023-01-21 at 10 12 14 PM" src="https://user-images.githubusercontent.com/17282458/213898877-7d52fd66-2179-4bb4-9516-3569af01c1f6.png">
 </p>
 
 <br />
 
 <p>
 Example 2: <br>
+
 - Sev-B (4 hours, 24/7) <br>
 - "accounting department needs adobe upgrade, broken" <br>
 </p>
 <p>
 <img width="1120" alt="Screenshot 2023-01-21 at 9 54 27 PM" src="https://user-images.githubusercontent.com/17282458/213898452-51d68c34-ae2b-486c-ae90-b16a3c0e1f20.png">
 </p>
+
 <br />
 
 <p>
@@ -57,7 +61,7 @@ Example 3: <br>
 - Sev-B/C (2 hours, business hours) <br>
 - "CFO’s laptop seems a bit slow" <br>
 </p>
-<p><img width="1129" alt="Screenshot 2023-01-21 at 12 26 02 PM" src="https://user-images.githubusercontent.com/17282458/213898578-d6e8c01c-3b19-427c-bd2c-3729efe111d2.png">
+<img width="1126" alt="Screenshot 2023-01-21 at 10 06 50 PM" src="https://user-images.githubusercontent.com/17282458/213898775-7d5eae64-f15b-4a6f-8827-35f28eda0771.png">
 
 
 </p>
